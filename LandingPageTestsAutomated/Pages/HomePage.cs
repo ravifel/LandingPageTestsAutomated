@@ -59,7 +59,6 @@ namespace LandingPageTestsAutomated.Pages
             driver.Click(component);
         }
 
-
         public void FillingOutTheAccessFormCorrectly()
         {
             driver.Click(AcceptCookiesButton);
